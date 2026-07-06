@@ -1,0 +1,40 @@
+
+#///////////////////////////
+# Cocos Creator 3D Project
+#///////////////////////////
+library/
+temp/
+local/
+build/
+profiles/*
+!profiles/v2/
+profiles/v2/*
+!profiles/v2/packages/
+profiles/v2/packages/*
+!profiles/v2/packages/android.json
+!profiles/v2/packages/builder.json
+!profiles/v2/packages/native.json
+#//////////////////////////
+# NPM
+#//////////////////////////
+node_modules/
+
+#//////////////////////////
+# VSCode
+#//////////////////////////
+.vscode/
+
+#//////////////////////////
+# WebStorm
+#//////////////////////////
+.idea/
+
+.DS_Store
+hot-update/
+remote-assets/
+native/engine/android/client-build.properties
+build-config/local-signing.json
+build-config/local-client-builds.json
+local-cdn/
+tools/__pycache__
+CaseBattleBakup/
