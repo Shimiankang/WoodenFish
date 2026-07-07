@@ -1,0 +1,50 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1783414808704": {
+        "encrypted": false,
+        "xxteaKey": "1c5u91t0pNfqRDtF",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1783415929064": {
+        "encrypted": false,
+        "xxteaKey": "1c5u91t0pNfqRDtF",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1783420695282": {
+        "encrypted": false,
+        "xxteaKey": "1c5u91t0pNfqRDtF",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1783421479392": {
+        "encrypted": false,
+        "xxteaKey": "99zjfceo5FmYJLnT",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1783422046107": {
+        "encrypted": false,
+        "xxteaKey": "99zjfceo5FmYJLnT",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1783423314328": {
+        "encrypted": false,
+        "xxteaKey": "99zjfceo5FmYJLnT",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      }
+    },
+    "__version__": "1.3.9"
+  }
+}
