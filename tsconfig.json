@@ -1,9 +1,17 @@
 {
-  /* Base configuration. Do not edit this field. */
-  "extends": "./temp/tsconfig.cocos.json",
+    /* Base configuration. Do not edit this field. */
+    "extends": "./temp/tsconfig.cocos.json",
 
-  /* Add your custom configuration here. */
-  "compilerOptions": {
-    "strict": false
-  }
+    /* Add your custom configuration here. */
+    "compilerOptions": {
+        "ignoreDeprecations": "6.0",
+        "moduleResolution": "node",
+        "module": "es2020",
+        "target": "esnext",
+        "strict": false,
+        "esModuleInterop": true,
+        "allowJs": true
+    },
+    "include": ["assets/**/*.ts", "assets/**/*.js", "node_modules/**/*/ts"],
+    "exclude": ["node_modules/@types", "library", "local", "temp", "build", "settings"]
 }
