@@ -18,7 +18,7 @@
   <img src="./screenshots/game.png" width="300">
 </p>
 
-> 如果仓库中暂时没有 `screenshots` 目录，可以自行添加游戏截图。
+> 
 
 ---
 
