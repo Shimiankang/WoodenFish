@@ -14,9 +14,11 @@
 ### 游戏截图
 
 <p align="center">
-  <img src="./screenshots/home.png" width="300">
-  <img src="./screenshots/game.png" width="300">
+  <img src="./img/game_loading.jpg" width="300">
+  <img src="./img/game_home.jpg" width="300">
 </p>
+
+
 
 > 
 
